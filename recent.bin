@@ -1,0 +1,100 @@
+HISTORY:
+exit
+cd ~/Projects/shell/000/Print
+./a.out &
+ls
+pwd
+fg
+ls
+pwd
+exit
+cd ~/Projects/shell/000/Print
+./a.out &
+ls
+pwd
+cd
+fg
+ls
+pwd
+exit
+cd ~/Projects/shell/000/Print
+./a.out &
+ls
+ls | wc &
+ls
+./a.out &
+ls
+pwd
+fg
+10
+set a `ls`
+set
+get a
+unset a
+set
+get a
+exit
+cd ~/Projects/shell/000/Print
+./a.out &
+ls
+pwd
+jobs
+fg
+exit
+ls &
+jobs
+cd ~/Projects/shell/000/Print
+./a.out &
+ls
+pwd
+fg
+./a.out &
+ls
+pwd
+ls
+ls | wc &
+jobs
+ls
+pwd
+exit
+cd ~/Projects/shell/000/Print
+./a.out |wc &
+jobs
+./a.out &
+jobs
+fg
+exit
+cd ~/Projects/shell/000/Print
+./a.out | wc &
+jobs
+exit
+cd ~/Projects/shell/000/Print
+./a.out &
+exit
+./a.out
+exit
+ls|wc
+ls|wc| wc
+history
+exit&
+exit
+ls
+ls | wc
+history
+exit &
+ls | wc | wc | wc
+history
+exit
+history
+help
+ls
+ping localhost | cat
+editext a.txt
+echo < a.txt
+exit
+cd
+cd ./Documentos
+cd ./project
+exit
+editext a.txt
+exit
