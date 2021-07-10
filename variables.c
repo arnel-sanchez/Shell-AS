@@ -36,7 +36,7 @@ void set(history *hist, linked_jobs *jobs, int *pid, char **tokens)
     {
         if(variable==NULL)
         {
-            variable=(variables**)calloc(2, sizeof(variables*));
+            variable=(variables**)calloc(SIZE, sizeof(variables*));
         }
         int i=0;
         int exist=0;
